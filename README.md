@@ -15,7 +15,7 @@
 #### **How to Run**  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/flutter-todo.git
+   git clone https://github.com/mehrdadMP/task-vortex.git
    ```  
 2. Install dependencies:  
    ```bash
