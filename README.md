@@ -10,7 +10,7 @@
 #### **Tech Stack**  
 📱 **Flutter** (Dart)  
 🔥 State Management: [e.g., Provider, Riverpod, Bloc, or setState]  
-🗄️ Storage: [e.g., Hive, SQLite, Firebase, or SharedPreferences]  
+🗄️ Storage: Hive 
 
 #### **How to Run**  
 1. Clone the repo:  
