@@ -1,7 +1,3 @@
-Here’s a polished **GitHub repository description** tailored for your **Flutter To-Do App**, with a clean and engaging style:  
-
----
-
 ### **Flutter To-Do App** 📱  
 ✅ A sleek, cross-platform **To-Do List** app built with **Flutter** to help you manage tasks effortlessly. Perfect for learning Flutter basics or expanding your UI/state management skills!  
 
