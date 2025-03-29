@@ -53,5 +53,3 @@
 - Replace `[your-username]` and placeholder links.  
 - Add **emoji dividers** (like 📌 or ✨) for visual appeal.  
 - If your app uses Firebase/APIs, mention it (e.g., *"Backed by Firebase Auth & Cloud Firestore"*).  
-
-Need a **humorous** or **minimalist** version? Let me know! 😄
