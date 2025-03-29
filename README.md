@@ -12,20 +12,19 @@
 🔥 State Management: [e.g., Provider, Riverpod, Bloc, or setState]  
 🗄️ Storage: [e.g., Hive, SQLite, Firebase, or SharedPreferences]  
 
-#### How to Run  
+#### **How to Run**  
 1. Clone the repo:  
-  
+   ```bash
    git clone https://github.com/your-username/flutter-todo.git
-   
- 
+   ```  
 2. Install dependencies:  
-  
+   ```bash
    flutter pub get
-   
- 
+   ```  
 3. Run on emulator/device:  
-  
+   ```bash
    flutter run
+   ```  
    
  
 
