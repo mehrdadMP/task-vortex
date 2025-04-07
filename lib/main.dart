@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:hive_flutter/hive_flutter.dart';
+import 'package:task_vortex/HiveDB/todo_model.dart';
 
-void main() {
-  runApp(const MyApp());
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized(); // For async tasks.
+  await Hive.initFlutter(); // Hive initialization.
+  Hive.registerAdapter(TodoAdapter()); // Register the Todo Model Adapter.
+  await Hive.openBox<Todo>('todos'); // Opening a Box(A box in Hive acts like a table in a relational database) for Todos.
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
