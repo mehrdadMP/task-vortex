@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:task_vortex/HiveDB/task_data.dart';
-import 'package:task_vortex/home_screen.dart';
+import 'package:task_vortex/features/auth/presentation/home_screen.dart';
 
 const taskBoxName = 'tasks';
 void main() async {
